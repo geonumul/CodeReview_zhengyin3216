@@ -1,4 +1,3 @@
-<img width="1109" height="984" alt="1번" src="https://github.com/user-attachments/assets/62039986-04af-4922-a53c-684ec530a25f" /># AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 황소리
 - 리뷰어 : 고건
 
